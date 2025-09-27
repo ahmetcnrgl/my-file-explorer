@@ -1,3 +1,9 @@
+from cdFunction import changeDirectory
+from listFunction import listDirectory
+from mkdirFunction import makeDirectory
+from infoFunction import infoDirectory
+from renameFunction import renameDirectory
+from deleteFunction import deleteDirectory
 import os
 
 
@@ -28,22 +34,22 @@ def main():
             FileExpMenu()
             continue
         elif komut == "list":
-            pass
+            listDirectory()
 
         elif komut == "cd":
-            pass
+            changeDirectory()
 
         elif komut == "mkdir":
-            pass
+            makeDirectory()
 
         elif komut == "info":
-            pass
+            infoDirectory()
 
         elif komut == "rename":
-            pass
+            renameDirectory()
 
         elif komut == "delete":
-            pass
+            deleteDirectory()
 
         elif komut == "quit":
             print("Programdan çıkılıyor...")
