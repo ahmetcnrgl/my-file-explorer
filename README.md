@@ -46,6 +46,6 @@
                             ├── infoFunction.py      # info komutu
                             ├── mkdirFunction.py     # mkdir komutu
                             ├── renameFunction.py    # rename komutu
-                            ├── deleteFunction.py    # del komutu
+                            ├── deleteFunction.py    # delete komutu
                             └── README.md            # Bu dosya
 
