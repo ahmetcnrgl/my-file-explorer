@@ -15,7 +15,7 @@
 
             ✏️ Yeniden adlandırma (rename) → dosya veya klasör adı değiştirir
 
-            🗑️ Silme (del) → dosya veya boş klasörü siler, işlem öncesi onay ister
+            🗑️ Silme (delete) → dosya veya boş klasörü siler, işlem öncesi onay ister
 
             ❓ Yardım (help) → kullanılabilir tüm komutları listeler
 
